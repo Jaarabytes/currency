@@ -4,6 +4,7 @@ This API deals with currencies and their respective rates.
 
 ## Usage
 | **Endpoint** | **Functioning** |
+| ------------ | --------------- |
 |`/`| Returns a JSON welcome message|
 |`/latest/USD`| Returns a JSON showing the latest currency rates based on the US Dollar|
 |`/all/crypto`| Returns a JSON showing all current rates of crypto|
